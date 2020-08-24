@@ -18,5 +18,17 @@
     "moment": "^2.27.0",
     "mongoose": "^5.10.0",
     "request": "^2.88.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyduah/pasecovidAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vickyduah/pasecovidAPI/issues"
+  },
+  "homepage": "https://github.com/vickyduah/pasecovidAPI#readme"
 }
