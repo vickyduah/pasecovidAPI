@@ -1,0 +1,22 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "West Africa Covid 19 Tracker API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Covid",
+    "covid"
+  ],
+  "author": "Daniel Kofi Kyeremateng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.10.0",
+    "request": "^2.88.2"
+  }
+}
