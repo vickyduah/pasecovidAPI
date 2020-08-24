@@ -10,7 +10,7 @@
     "Covid",
     "covid"
   ],
-  "author": "Daniel Kofi Kyeremateng",
+  "author": "Victoria Adutwumwaa",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
